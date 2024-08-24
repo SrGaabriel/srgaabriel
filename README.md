@@ -1,28 +1,28 @@
 # 🌊 Gabriel
 
-Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things around me and to build things of my own. I am a highly ambitious and passionate individual.
+Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things around me and to build things of my own. I would describe myself as a highly ambitious and passionate individual.
 
 # 📂 Portfolio
 
 Here are my 5 projects that I love the most:
 
 * **🐲 gwydion:** a programming language & compiler to LLVM made in Kotlin.
-* **👁️ iris:** a live messaging service built in Rust and Svelte.
+* **👁️ iris:** a live messaging service/website built in Rust and Svelte.
 * **♟️ caissa:** a chess AI + website made in Rust and Svelte.
-* **♣️ clubs:** a nice and extremely flexible & multiplatform Kotlin command framework _(archived)_
+* **♣️ clubs:** an extremely flexible & multiplatform Kotlin command framework _(archived)_
 * **🃏 deck:** wrapper for the Guilded API made in Kotlin _(archived)_
 
 # 🧰 Toolbox
 
 My favourite technologies/tools:
 
-* **Programming language:** 🧱 Rust. The syntax is perfect, trait systems is very logical and concise, performance is good and the equilibrium between low-level and high-level programming is ideal.
-* **Web framework:** ❓ Svelte. Simple yet effective, without virtually all of React's nonsense.
-* **Virtual Machine:** 🐉 LLVM. I like the LLVM IR and the VM itself, although I'm still learning!
+* **Programming language:** 🧱 Rust. The syntax is perfect, trait systems is very logical, performance is good and the equilibrium between low-level and high-level programming is ideal.
+* **Web framework:** ❓ Svelte. Simple yet effective, without all of React's nonsense.
+* **Virtual Machine:** 🐉 LLVM. I like LLVM IR and the VM itself, although I'm still learning!
 * **Relational: database:** 🐘 PostgreSQL. Solid and has a big community
-* **Graph database:** 📊 Neo4j. Found it very entertaining and refreshing
+* **Graph database:** 📊 Neo4j. I found it very refreshing and fun
 
-Some of the technologies/tools I found amusing enough to highlight them here, in my profile page (honourable mentions:
+Some of the technologies/tools I found amusing enough to highlight here, in my profile page (honourable mentions):
 
 * **Programming languages:** 🔀 Kotlin, ☕ Java, 🐍 Python
 * **Web frameworks:** 💫 AstroJS and ▶ NextJS
@@ -38,10 +38,10 @@ Proficiency for the sake of it:
 
 # 📋 Additional Interests
 
-Aside from programming, here are some other interests and passions of mine:
+Aside from programming, here are some of my other interests & passions:
 
-* **⚽ Football:** follow it religiously, supporter of Cruzeiro & Real Madrid
-* **🔱 Mythology:** most of my projects are named after mythological deities
-* **🗽 Philosophy:** constantly on my mind, combined with a natural passion and affinity for it
-* **📐 Math:** stimulates me to do associations and teaches me a new way of understanding my surroundings
-* **𝚿 Psychology:** vivid enthusiast of human nature, love theorizing and applying its concepts
+* **⚽ Football:** I follow it religiously! I support of Cruzeiro & Real Madrid
+* **🔱 Mythology:** Most of my projects are named after mythological deities, because I find them cool
+* **🗽 Philosophy:** Constantly on my mind, I have a natural passion for it
+* **📐 Math:** It stimulates me to make associations and teaches me a new way of understanding my surroundings
+* **𝚿 Psychology:** I'm a vivid enthusiast of understanding human nature, love theorizing and applying its concepts
