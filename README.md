@@ -16,7 +16,7 @@ Here are my 5 projects that I love the most:
 
 My favourite technologies/tools:
 
-* **Programming language:** 🧱 Rust. The syntax is perfect, trait systems is very logical, performance is good and the equilibrium between low-level and high-level programming is ideal.
+* **Programming language:** 🧱 Rust. I like the syntax, trait system, performance and the ease of use
 * **Web framework:** ❓ Svelte. Simple yet effective, without all of React's nonsense.
 * **Virtual Machine:** 🐉 LLVM. I like LLVM IR and the VM itself, although I'm still learning!
 * **Relational: database:** 🐘 PostgreSQL. Solid and has a big community
