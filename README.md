@@ -18,7 +18,7 @@ My favourite technologies/tools:
 
 * **Programming language:** 🧱 Rust. I like the syntax, trait system, performance and the ease of use
 * **Web framework:** ❓ Svelte. Simple yet effective, without all of React's nonsense.
-* **Virtual Machine:** 🐉 LLVM. I like LLVM IR and the VM itself, although I'm still learning!
+* **Compiler/Runtime Infrastructure:** 🐉 LLVM. I like LLVM IR and the VM itself, although I'm still learning!
 * **Relational: database:** 🐘 PostgreSQL. Solid and has a big community
 * **Graph database:** 📊 Neo4j. I found it very refreshing and fun
 
