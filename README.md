@@ -40,8 +40,8 @@ Proficiency for the sake of it:
 
 Aside from programming, here are some of my other interests & passions:
 
-* **⚽ Football:** I follow it religiously! I support of Cruzeiro & Real Madrid
-* **🔱 Mythology:** Most of my projects are named after mythological deities, because I find them cool
-* **🗽 Philosophy:** Constantly on my mind, I have a natural passion for it
-* **📐 Math:** It stimulates me to make associations and teaches me a new way of understanding my surroundings
-* **𝚿 Psychology:** I'm a vivid enthusiast of understanding human nature, love theorizing and applying its concepts
+* **⚽ Football:** I follow it religiously! I support Cruzeiro & Real Madrid
+* **🔱 Mythology:** Most of my projects are named after mythological deities, because I love learning about them!
+* **🗽 Philosophy:** Constantly on my mind as I always try to generalize and test my understandings of the universe and life
+* **📐 Math:** Math stimulates me to make associations and teaches me a new way of understanding my surroundings
+* **𝚿 Psychology:** I'm constantly trying to understanding human nature and I love theorizing about it
