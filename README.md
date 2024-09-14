@@ -7,24 +7,24 @@ Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things
 Here are my 5 projects that I love the most:
 
 * **🐲 gwydion:** a programming language & compiler to LLVM made in Kotlin.
-* **👁️ iris:** a live messaging service/website built in Rust and Svelte.
-* **♟️ caissa:** a chess AI + website made in Rust and Svelte.
+* **👁️ iris:** a live messaging service/website built with Rust and Svelte.
+* **♟️ caissa:** a chess AI + website made with Rust and Svelte.
 * **♣️ clubs:** an extremely flexible & multiplatform Kotlin command framework _(archived)_
-* **🃏 deck:** wrapper for the Guilded API made in Kotlin _(archived)_
+* **🃏 deck:** wrapper for the Guilded API written in Kotlin _(archived)_
 
 # 🧰 Toolbox
 
 My favourite technologies/tools:
 
-* **Programming language:** 🧱 Rust. I like the syntax, trait system, performance and the ease of use
-* **Web framework:** ❓ Svelte. Simple yet effective, without all of React's nonsense.
-* **Compiler/Runtime Infrastructure:** 🐉 LLVM. I like LLVM IR and the compiler itself, although I'm still learning!
-* **Relational: database:** 🐘 PostgreSQL. Solid and has a big community
-* **Graph database:** 📊 Neo4j. I found it very refreshing and fun
+* **Programming language:** 🧱 Rust
+* **Web framework:** ❓ Svelte
+* **Compiler/Runtime Infrastructure:** 🐉 LLVM
+* **Relational: database:** 🐘 PostgreSQL
+* **Graph database:** 📊 Neo4j
 
-Some of the technologies/tools I found amusing enough to highlight here, in my profile page (honourable mentions):
+Some of the technologies/tools I found amusing enough to highlight here:
 
-* **Programming languages:** 🔀 Kotlin, ☕ Java, 🐍 Python
+* **Programming languages:** 🏗️ Kotlin, ☕ Java, 🐍 Python
 * **Web frameworks:** 💫 AstroJS and ▶ NextJS
 * **Relational database:** 🐬 MySQL
 * **Others:** 🎨 CSS, 🪐 Jupyter
@@ -32,8 +32,6 @@ Some of the technologies/tools I found amusing enough to highlight here, in my p
 Proficiency for the sake of it:
 
 * **Programming languages:** 🗃️ TypeScript and 🌐 JavaScript
-* **Web frameworks:** ⚛️ ReactJS
-* **Virtual Machine:** 📻 JVM
 * **Markup languages:** 🕸️ HTML
 
 # 📋 Additional Interests
