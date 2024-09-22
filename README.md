@@ -6,10 +6,10 @@ Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things
 
 Here are my 5 projects that I love the most:
 
-* **🐲 gwydion:** a programming language & compiler to LLVM made in Kotlin.
+* **🍂 selene:** an imperative programming language that compiles to LLVM made in Kotlin.
 * **👁️ iris:** a live messaging service/website built with Rust and Svelte.
 * **♟️ caissa:** a chess AI + website made with Rust and Svelte.
-* **♣️ clubs:** an extremely flexible & multiplatform Kotlin command framework _(archived)_
+* **🚂 selene:** a functional programming language that compiles to LLVM made in Scala.
 * **🃏 deck:** wrapper for the Guilded API written in Kotlin _(archived)_
 
 # 🧰 Toolbox
