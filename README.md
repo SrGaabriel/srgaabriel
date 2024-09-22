@@ -4,7 +4,7 @@ Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things
 
 # 📂 Portfolio
 
-Here are my 5 projects that I love the most:
+These are my 5 personal projects that I love the most:
 
 * **🍂 selene:** an imperative programming language that compiles to LLVM made in Kotlin.
 * **👁️ iris:** a live messaging service/website built with Rust and Svelte.
@@ -39,7 +39,7 @@ Proficiency for the sake of it:
 Aside from programming, here are some of my other interests & passions:
 
 * **⚽ Football:** I follow it religiously! I support Cruzeiro & Real Madrid
-* **🔱 Mythology:** Most of my projects are named after mythological deities, because I love learning about them!
+* **🔱 Mythology:** Most of my projects are named after mythological deities & entities, as I love learning about them!
 * **🗽 Philosophy:** Constantly on my mind as I always try to generalize and test my understandings of the universe and life
-* **📐 Math:** Math stimulates me to make associations and teaches me a new way of understanding my surroundings
-* **𝚿 Psychology:** I'm constantly trying to understanding human nature and I love theorizing about it
+* **📐 Math:** Stimulates me to make associations and teaches me new ways of understanding my surroundings
+* **𝚿 Psychology:** I'm constantly trying to understand human nature and I love theorizing about it
