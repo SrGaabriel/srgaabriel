@@ -24,7 +24,7 @@ My favourite technologies/tools:
 
 Some of the technologies/tools I found amusing enough to highlight here:
 
-* **Programming languages:** 🏗️ Kotlin, ☕ Java, 🐍 Python
+* **Programming languages:** 🧣 Scala, 🏗️ Kotlin, ☕ Java, 🐍 Python
 * **Web frameworks:** 💫 AstroJS and ▶ NextJS
 * **Relational database:** 🐬 MySQL
 * **Others:** 🎨 CSS, 🪐 Jupyter
