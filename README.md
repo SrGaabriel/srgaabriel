@@ -1,6 +1,6 @@
 # 🌊 Gabriel
 
-Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb things around me and to build things of my own. I would describe myself as a highly ambitious and passionate individual.
+Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb knowledge around me and to build things of my own. I would describe myself as a highly ambitious and passionate individual.
 
 # 📂 Portfolio
 
@@ -9,7 +9,7 @@ These are my 5 personal projects that I love the most:
 * **🍂 selene:** an imperative programming language that compiles to LLVM made in Kotlin.
 * **👁️ iris:** a live messaging service/website built with Rust and Svelte.
 * **♟️ caissa:** a chess AI + website made with Rust and Svelte.
-* **🚂 selene:** a functional programming language that compiles to LLVM made in Scala.
+* **🚂 seren:** a functional programming language that compiles to LLVM made in Scala.
 * **🃏 deck:** wrapper for the Guilded API written in Kotlin _(archived)_
 
 # 🧰 Toolbox
