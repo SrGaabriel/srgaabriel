@@ -29,7 +29,7 @@ Some of the technologies/tools I found amusing enough to highlight here:
 * **Relational database:** 🐬 MySQL
 * **Others:** 🎨 CSS, 🪐 Jupyter
 
-Proficiency for the sake of it:
+Other proficiencies:
 
 * **Programming languages:** 🗃️ TypeScript and 🌐 JavaScript
 * **Markup languages:** 🕸️ HTML
