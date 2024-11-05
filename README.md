@@ -1,6 +1,6 @@
 # 🌊 Gabriel
 
-Hey there! I'm Gabriel, a 17 year old software engineer. I love to absorb knowledge around me and to build things of my own. I would describe myself as a highly ambitious and passionate individual.
+Hey there! I'm Gabriel, a highly ambitious and passionate 17 year old software engineer. Here you'll find me building all sort of things!
 
 # 📂 Portfolio
 
